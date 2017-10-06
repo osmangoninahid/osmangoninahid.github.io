@@ -1,5 +1,3 @@
-# Osman Goni Nahid 
-
 ## What I'm looking for?
 I want to travel, I want to work and travel at the same time, working 100% remotely.
 
