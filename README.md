@@ -70,7 +70,6 @@ Then, I left my happy Mobile-Apps-Dev-life and I started working using another s
 * Apache
 * Nginx
 * PHP (Slim , Laravel & Raw)
-* Unity3D (Little bit)
 
 This stack was super productive for me until mid 2016, moment where I got opportunity to work on NodeJS, ReactJS, Django, AWS and Firebase. So now, my stack for personal projects has this shape:
 * NodeJS/Express (Backend)
@@ -89,7 +88,6 @@ This stack was super productive for me until mid 2016, moment where I got opport
 ## Companies where I worked?
 * Home. The best place to improve knowledge randomly. I'm always working in personal projects to improve knowledge in different technologies.
 * Power GP BD Ltd. ~1.2 years working as Android developer, doing mobile application stuffs. (It's kind of outsource based software factory)
-* RITL. few month worked as Software Engineer (SQL, PHP, Slim, JavaScript, Unity3D). Game development & Backend.
 * Local Insights. few month remotely worked as Lead Full Stack Engineer (NodeJS, Django, ReactJS, JavaScript). Cloud Data service provider company.
 * Inovio Inc. ~1.3 years. Huge public software company cloud platform based service provider. Full Stack Developer (NodeJS, Python/Django, ReactJS). Working at Disney projects.
 * Ekkbaz. Currently working here. Startup based on Singapore. Working as Senior Software Engineer (NodeJS, React-Native and ReactJS sometimes Python), mostly working in the Backend team. Collaborating on (Frontend) ReactJS & React-Native team.
