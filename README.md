@@ -1,143 +1,120 @@
-# Osman Goni Nahid
+> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
-## What I'm looking for?
-I want to travel, I want to work and travel at the same time, working 100% remotely.
+# Jekyll Now
 
-I prefer to work with people that love the product we are creating, putting a lot of effort to improve what we are creating. People that really love coding.I believe I am capable to accept new challenges and meet my employer expectation who likes the Unix environment for development.
+**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
-I learn fast, early adopt and continuously explore with innovation.
+**Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
 
-Flexible hours and flexible days will be a must. I want to manage my own schedule.
+- You don't need to touch the command line
+- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
+- You don't need to install runtime dependencies like markdown processors, Pygments, etc
+- If you're on Windows, this will make setting up Jekyll a lot easier
+- It's easy to try out, you can just delete your forked repository if you don't like it
 
-As you can see, this is a "perfect job". Meaning, you can offer something that do not full fill this points. We can negotiate it.
+In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
 
-> Note: I want to continue working in NodeJS & Django. I prefer Backend, but frontend using ReactJS could be a good option and Mobile application with native or React-Native could be a fun. Also have some familiarity and interest with DevOps stuffs.
+![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
-## Glad to work with
-* NodeJS/Javascript
-* Python/Django
-* React
-* JSX
-* Redux
-* Android Mobile Application with Java
-* iOs Application with swift
-* Hybrid Mobile Application (React-Native)
-* Firebase
-* WebRTC
-* Webpack
-* AWS (EC2, Unix Instance, Lambda, S3-Bucket)
-* Azure (VMs, Function, Mobile Service, Azure Storage)
-* Heroku
-* CI & Deployment (CircleCI, Jenkins, Docker, PythonFabric)
-* Server (Nginx, Apache)
-* Database (MongoDB, Postgres, MySQL, MSSQL, SQLite, Azure Table Storage, CosmosDB, Realm, ORMLite)
+## Quick Start
 
+### Step 1) Fork Jekyll Now to your User Repository
 
-## Languages
-* Bangla - Native speaker
-* English
-  * Writing: I have no problems to chat and keep a written communication. In my last 6 years I have been working using JIRA and talking by chat to keep my team in sync. (coworkers mainly from Singapore, US, Qatar, Australia)
-  * Speaking & Listening: When talking about technical stuffs, I have no problem, but, I feel like my vocabulary is not big as I would like it to be, so sometimes, in small talks or non-technical-talks, I find myself stuck, but not a big deal.
+Fork this repo, then rename the repository to yourgithubusername.github.io.
 
-## Contact
-Mail to [osmangoni.se@gmail.com](mailto:osmangoni.se@gmail.com).
+Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
-Please, in the subject, add `[Remote Work]`, for example: `[Remote Work] Proposal from X company`. If not, I'll move the email to SPAM folder (but, before doing it, I'll read it).
+![Step 1](/images/step1.gif "Step 1")
 
-## Do you want to stalk a little bit?
-* GitHub: @osmangoninahid (for personal projects)
-* Instagram: @osmangoninahid (a little bit about my life, friends, and trips)
-* Medium: @osmangoninahid (a little bit about my life style)
-* Facebook: @nahidcool1994 (a little bit about me)
-* Twitter: @osmangoninahid (a little bit about)
-* Linkedin: @osmangoninahid (a little bit about my profession and last experiences)
+### Step 2) Customize and view your site
 
-Yeah... You can find me in everyplace just looking for "Osman Goni Nahid".
+Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
 
-## A bit of my history
-From 2013 I started Software Engineering bachelor course at [University](https://daffodilvarsity.edu.bd/), During University life I put a lot of time in competitive programming (ACM ICPC) during my university life and participated 10+ National programming contest. And started learning Android Mobile Application development besides study. Fortunately, I got a Job offer in middle of my University-life from a local company to join as Android Application Developer then started there...
+Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
 
-From 2014 to 2016 I always worked in personal (and job) projects using always the same technologies (creating and setting up absolutely everything on my own).
-* Linux(Ubuntu)
-* GIT
-* Android (Java,XML)
-* C/C++/Python (Problem Solving/Contest)
-* SQLite, MySQL
+> There are 3 different ways that you can make changes to your blog's files:
 
-Then, I left my happy Mobile-Apps-Dev-life and I started working using another stack:
-* Ubuntu server (setting it up using Vagrant)
-* GIT
-* Apache
-* Nginx
-* PHP (Slim , Laravel & Raw)
+> 1. Edit files within your new username.github.io repository in the browser at GitHub.com (shown below).
+> 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
+> 3. Clone down your repository and make updates locally, then push them to your GitHub repository.
 
-This stack was super productive for me until mid 2016, moment where I got opportunity to work on NodeJS, ReactJS, Django, AWS and Firebase. So now, my stack for personal projects has this shape:
-* NodeJS/Express (Backend)
-* Python/Django (Backend)
-* AWS
-* Azure
-* Microservice
-* GIT
-* Firebase Hosting for static serving
-* Firebase Functions and Firebase Database for no-sql database and backend (creating some kind of REST API in Firebase Functions)
-* React (+JSX) + Redux + Thunks + Reselect as frontend
+![_config.yml](/images/config.png "_config.yml")
 
-^ This is my current Stack. REST API, frontend with React and Backend using Django and/or Express + SQL + NoSQL & Non-Relational-DB (like Postgres, Mongo). Full ECMAScript stack.
+### Step 3) Publish your first blog post
 
+Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
 
-## Companies where I worked?
-* Home. The best place to improve knowledge randomly. I'm always working in personal projects to improve knowledge in different technologies.
-* Power GP BD Ltd. ~1.2 years working as Android developer, doing mobile application stuffs. (It's kind of outsource based software factory)
-* Local Insights. few month remotely worked as Lead Full Stack Engineer (NodeJS, Django, ReactJS, JavaScript). Cloud Data service provider company.
-* Inovio Inc. ~1.3 years. Huge public software company cloud platform based service provider. Full Stack Developer (NodeJS, Python/Django, ReactJS). Working at Disney projects.
-* Ekkbaz. Currently working here. Startup based on Singapore. Working as Senior Software Engineer (NodeJS, React-Native and ReactJS sometimes Python), mostly working in the Backend team. Collaborating on (Frontend) ReactJS & React-Native team.
+![First Post](/images/first-post.png "First Post")
 
-So, as you can see, I worked at Huge public company and Startups.
+> You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
 
-## Full list of tech that I have dealt with (in my whole life, in chronological order)
-* C/C++
-* Bash
-* Java (Android)
-* JavaScript(NodeJS, Express, ReactJS, Redux, React-Native, jQuery, Webpack, Thunks & Mocha + chai + PhantomJS + Karma + Jasmine + Jest, and the whole E2E/functional-test suite & ES6)
-* Python (Django, Fabric)
-* Swift (iPhone Application Dev)
-* PHP (Laravel, Slim)
-* Package Manager (npm, yarn, cocoapods, composer, pip)
-* HTML (but not CSS)
-* SQL Server (Microsoft)
-* MySQL
-* Postgres
-* MongoDB
-* Azure (Table Storage, CosmosDB, DocumentDB)
-* SQLite
-* Mobile Database (ORMLite, Realm, Active-Android)
-* GIT
-* MVC,MVP
-* Scrum, Agile
-* Tools (JIRA, VSTS, Trello, Asana)
-* Reactive-Programming
-* OOP
-* REST
-* Microservice
-* AWS (EC2, Unix server, S3-Bucket, Lambda-Function)
-* Azure (VM, server, azure-function, azure-cli)
-* Vagrant
-* Nginx
-* Apache
-* Guinicorn
-* CI, Docker, Jenkins
-* Third-party APIs (Facebook Graph API, Google API, Linkedin, Different Payment APIs, Auth0, PubNub, Firebase, ScreenLeap, Twilio)
+## Local Development
 
-## Some of my proud
-* [Potaka()](http://potaka.io): Project to learn programming in Bengali for new comers in programming world.
-* [Glips](https://github.com/osmangoninahid/glips): Funny project! with Javascript
-* [Socio](private): Project full of Node and MongoDB. Using Twitter, GooglePlus and Facebook API Auto look for tweets/posts with geolocation, useful to understand where (geolocalization) is the people that is tweeting/posting about some hashtag. ([Ongoing](./))
-* [DevsWhere](https://github.com/osmangoninahid/devswhere): Project to learn more about Express, MongoDB, React, Redux, and more.
-* [NDA-Signed-Projects](https://www.linkedin.com/in/osmangoninahid/projects): Some awesome and challenging project I've done at Job or Freelance.
+1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
+2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
+3. Serve the site and watch for markup/sass changes `jekyll serve`
+4. View your website at http://127.0.0.1:4000/
+5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 
+## Moar!
 
-## Something more?
-* I'm super sociable.
-* #beer, #music, #reading, #sharing #problem-solving, #sleeping
-* I love traveling, a lot.
-* Sometimes I take courage and write tech blog
+I've created a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. :metal:
+
+It covers:
+
+- A more detailed walkthrough of setting up your Jekyll blog
+- Common issues that you might encounter while using Jekyll
+- Importing from Wordpress, using your own domain name, and blogging in your favorite editor
+- Theming in Jekyll, with Liquid templating examples
+- A quick look at Jekyll 2.0’s new features, including Sass/Coffeescript support and Collections
+
+## Jekyll Now Features
+
+✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
+✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
+✓ Sass/Coffeescript support using Jekyll 2.0  
+✓ Free hosting on your GitHub Pages user site  
+✓ Markdown blogging  
+✓ Syntax highlighting  
+✓ Disqus commenting  
+✓ Google Analytics integration  
+✓ SVG social icons for your footer  
+✓ 3 http requests, including your avatar  
+
+✘ No installing dependencies
+✘ No need to set up local development  
+✘ No configuring plugins  
+✘ No need to spend time on theming  
+✘ More time to code other things ... wait ✓!  
+
+## Questions?
+
+[Open an Issue](https://github.com/barryclark/jekyll-now/issues/new) and let's chat!
+
+## Other forkable themes
+
+You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-start) workflow with other themes that are set up to be forked too! Here are some of my favorites:
+
+- [Hyde](https://github.com/poole/hyde) by MDO
+- [Lanyon](https://github.com/poole/lanyon) by MDO
+- [mojombo.github.io](https://github.com/mojombo/mojombo.github.io) by Tom Preston-Werner
+- [Left](https://github.com/holman/left) by Zach Holman
+- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose
+- [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) by Michael Rose
+
+## Credits
+
+- [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
+- [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
+- [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
+- [Joel Glovier](http://joelglovier.com/writing/) - Great Jekyll articles. I used Joel's feed.xml in this repository.
+- [David Furnes](https://github.com/dfurnes), [Jon Uy](https://github.com/jonuy), [Luke Patton](https://github.com/lkpttn) - Thanks for the design/code reviews.
+- [Bart Kiers](https://github.com/bkiers), [Florian Simon](https://github.com/vermluh), [Henry Stanley](https://github.com/henryaj), [Hun Jae Lee](https://github.com/hunjaelee), [Javier Cejudo](https://github.com/javiercejudo), [Peter Etelej](https://github.com/etelej), [Ben Abbott](https://github.com/jaminscript), [Ray Nicholus](https://github.com/rnicholus), [Erin Grand](https://github.com/eringrand), [Léo Colombaro](https://github.com/LeoColomb), [Dean Attali](https://github.com/daattali), [Clayton Errington](https://github.com/cjerrington), [Colton Fitzgerald](https://github.com/coltonfitzgerald), [Trace Mayer](https://github.com/sunnankar) - Thanks for your [fantastic contributions](https://github.com/barryclark/jekyll-now/commits/master) to the project!
+
+## Contributing
+
+Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
+
+You can start by [opening an issue](https://github.com/barryclark/jekyll-now/issues/new) describing the problem that you're looking to resolve and we'll go from there.
+
+I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged. :guardsman:
