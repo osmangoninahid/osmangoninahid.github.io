@@ -15,8 +15,8 @@ I possess more than 8 years of hands-on experience with **NodeJS** and expertise
 I'm also familiar with **Erlang** and currently exploring **Golang**.
 In terms of cloud platforms, I prefer **AWS** also experienced with **Azure**. I'm well-versed in DevOps culture and tools such as K8s, Docker, CI/CD, and more.
 
-I've won [Champion title in the people's choice category](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar) with my team at [NASA Space Apps Challenge Bangladesh in 2016](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar) and been in leadership e.g **CTO and TechLead** of two start-up where joined as foudning Engineer and scaled to one of the largest (100+ resources) engineering teams in country.
-Currently, I hold the position of **Lead Engineer & Solution Architect** at [Comera](https://mycomera.com) local market oriented app competitor of Whatsapp and Telegram in UAE, where I oversee the XMPP-Messaging segment and lead the Sustenance Team. Additionally, I work as a part-time freelance developer, consultant, and auditor. 
+I've won [Champion title in the people's choice category](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar) with my team at [NASA Space Apps Challenge Bangladesh in 2016](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar) and been in leadership e.g **CTO, EM and TechLead** of two start-up where joined as foudning Engineer and scaled to one of the largest (100+ resources) engineering teams in country.
+Currently, I hold the position of **Lead Engineer & Solution Architect** at [Comera](https://mycomera.com) local market oriented app competitor of Whatsapp and Telegram in UAE, here I oversee the XMPP-Messaging segment and lead the Sustenance Team. Additionally, I work as a part-time freelance developer, consultant, and auditor. 
 In my leisure time, I love to travel, or dedicating my efforts to personal side projects that enable me to enhance my skills and experiment with cutting-edge technologies.
 
 ## Academic experience
