@@ -26,3 +26,64 @@ I have successfully earned a **Bachelor's Degree in Software Engineering**, comp
 
 I started my Masters on Computer Science,  but is currently on hold. 
 > I have successfully completed courses in Distributed Computing, Computer Networks and Data Communication, and Distributed Databases, in addition to fulfilling other mandatory course requirements.
+
+## Interesting facts
+
+- Co-Founder & Developer of [Potaka();](https://potaka.io)
+- Champion (People's choice) of [NASA Space Apps Challenge Bangladesh in 2016](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar)
+- CTO of [Evaly](https://play.google.com/store/apps/details?id=bd.com.evaly.evalyshop)
+- Co-Founder of [eKhata](https://ekhata.com.bd)
+- CTO of [eJobs](https://play.google.com/store/apps/details?id=bd.com.evaly.ejobs),
+ [eHealth](https://play.google.com/store/apps/details?id=bd.com.evaly.ehealth) &
+ [eFood](https://efood.com.bd)
+- Trainer Object Oriented Programming, System Design and DSA
+- Participated Several National & Onsite Programming Contest
+
+### Countries/Cities visited
+
+I was born and raised in Bangladesh, and I am currently residing in the UAE, where I hold the *UAE Golden Visa&trade;* in Category of Talented Pioneer.
+
+
+- 🇦🇪 **United Arab Emirates**: 
+  - **Abu Dhabi**
+  - **Dubai**
+  - **Al Ain** 
+  - **Sharjah** 
+  - **Ajman**
+  - **Ras Al Khaimah**
+- 🇹🇷 **Turkey**: 
+  - **Istanbul** 
+  - **Cappadocia**
+  - **Antalya**
+  - **Analya**
+- 🇮🇳 **India**:
+  - **Delhi**
+  - **Himachal Pradesh**
+  - **Kashmir**
+
+
+
+
+## Recomendations, testimonies & quotes
+
+Recomendations from co-workers and managers of my previous job companies, and
+testimonies from clients about my freelance projects.
+
+<details>
+  <summary>Expand</summary>
+
+[Name of Him/Her](https://es.linkedin.com/in/username), Position of
+[WorkedAt](https://link.com)
+
+> MyName is a worker with a lot of knowledge in several technical areas, from
+> low level programming up to scripting languages, and including devices
+> integration that's where he was helping us. He is a person with a great
+> interest for learning and improve himself each day, and I recommend him
+> specially for his technical expertise and aptitudes.
+
+</details>
+
+
+## Contact me
+
+[{{ site.footer-links.email }}](mailto:{{ site.footer-links.email }})
