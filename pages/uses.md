@@ -5,7 +5,7 @@ permalink: /uses
 ---
 
 ## Toolbelt
-- [npm audit fix|signatures](https://docs.npmjs.com/cli/v10/commands/npm-audit)
+- [npm audit fix or signatures](https://docs.npmjs.com/cli/v10/commands/npm-audit)
 - [npm check updates](https://github.com/raineorshine/npm-check-updates)
 - [gnomon](https://github.com/paypal/gnomon)
 
