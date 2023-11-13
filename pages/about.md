@@ -30,10 +30,14 @@ I started my Masters on Computer Science,  but is currently on hold.
 ## Interesting facts
 
 - Co-Founder & Developer of [Potaka();](https://potaka.io)
+- Developed, deployed and scaled a nationwide tech eco-system for over **7 million** users, managing more than 1 million concurrent requests.
+- [Currently](https://mycomera.com) Crafting and expanding solutions for **4+ million** users to ensure a smooth XMPP connection.
 - Champion (People's choice) of [NASA Space Apps Challenge Bangladesh in 2016](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar)
 - CTO of [Evaly](https://play.google.com/store/apps/details?id=bd.com.evaly.evalyshop)
-- Co-Founder of [eKhata](https://ekhata.com.bd)
-- CTO of [eJobs](https://play.google.com/store/apps/details?id=bd.com.evaly.ejobs),
+- I mentored and collaborated with a team to bring out their best, resulting in the rapid development and deployment of different products like
+ [rDash360](https://rdash360.com/),
+ [eKhata](https://ekhata.com.bd), 
+ [eJobs](https://play.google.com/store/apps/details?id=bd.com.evaly.ejobs),
  [eHealth](https://play.google.com/store/apps/details?id=bd.com.evaly.ehealth) &
  [eFood](https://efood.com.bd)
 - Trainer Object Oriented Programming, System Design and DSA
