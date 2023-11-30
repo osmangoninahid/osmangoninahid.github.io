@@ -137,7 +137,7 @@ testimonies from clients about my freelance projects.
 >Nahid Bhai is a fantastic person to work with and is not only a multi-skilled and insightful leader but also an inspiring strategist.
 > A great leader with a super cool mindset. Nahid Bhai is a very productive person and hardworking, broad-minded, and forward-thinking individual. It is an honor for me to recommend and endorse Nahid Bhai.
 
-[See More...](https://www.linkedin.com/in/osmangoninahid/details/recommendations/)
+[See More...](https://www.linkedin.com/in/osmangoninahid/)
 </details>
 
 
