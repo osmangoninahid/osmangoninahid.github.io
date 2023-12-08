@@ -17,8 +17,11 @@ $white: #fff;
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
-
+// $georgia: Georgia, serif;
+// $inter: Inter, sans-serif;
+// $rubik: Rubik, Arial, sans-serif;
+// $slabo: "Slabo 27px", serif;
+// $firaCode: "Fira Code", monospace;
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
