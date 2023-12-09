@@ -12,44 +12,102 @@ consultancy are below -
 
 ### 2023
 
-- [Comera]
 - [ComeraPay]
+- [Comera]
 
 ### 2021-2022
 
 - [rDash360]
+    - rDash360 serves as a comprehensive solution for overseeing inventory, orders, content, and logistics
+      across various online marketplaces like Shopee, Tokopedia, Lazada, Blibli, Bukalapak, and more. 
+      It empowers merchants and large brands to adeptly handle their omnichannel online sales, providing
+      seamless management capabilities akin to professional expertise.
+    - Led the team of 5 resources, Designed and Developed Backend Microservices also contributed on Deployment.
+    - Tech Stack: `Microservice`, `NodeJs/NestJs`, `PostgreSQL`, `MongoDB`, `RabbitMQ`, `Redis`, `AWS`
+      `Docker`, `Kubernetes`, `Jenkins`
+
 - [RAENA]
+    - RAENA is the largest beauty products reselling & dropship app in Indonesia, trusted by over 100,000
+      beauty product sellers. RAENA supports Beautypreneur in starting and growing beauty business without
+      any upfront capital and earn extra income up to Rp 10 million/month.
+    - Worked as Lead Backend Engineer, Contributed on core Backend Service Design & Development.
+    - Tech stack: `NodeJs/ExpressJs`, `NestJs/Typescript`, `PostgreSQL`, `Redis`, `RabbitMQ`, `AWS`
+      `Docker`, `Kubernetes`, `Jenkins`.
 
 ### 2020-2021
 
 
-- [eJob]
-- [eLogistic]
+- [eJob](https://ejob.com.bd)
+    - eJob functions as a job portal catering to both job seekers and employers, offering a platform
+      to post and discover suitable job opportunities. Additionally, it provides services such as profile
+      and resume building tools, as well as employer reviews, enhancing the overall job-seeking experience.
+    - Led the over-all product and team, Designed the solution from scratch.
+    - Tech Stack: `Python/Django`, `PostgreSQL`, `ElasticSearch`, `Redis`, `AWS`, `Docker`, `Kubernetes`,
+     `Jenkins`, `ReactJs`, `NextJs`.
+    
+- [eLogistic](https://elogistics.com.bd)
+    - eLogistic serves as a comprehensive fleet and logistics aggregator, seamlessly integrating Evaly's internal
+      operations with third-party logistics (3PL) and partners. It facilitates various delivery services
+      such as on-demand, same-day, express, and regular trucking through a unified platform.
+    - Led the over-all product and team, Designed the solution from scratch.
+    - Tech Stack: `Microservice`, `Event-Driven Architecture`, `Kafka`, `Redis`, `MongoDB`, `PostgreSQL`,
+       `AWS`, `Docker`, `Kubernetes`, `NodeJs/NestJs`, `RedShift`, `Jenkins`
+
 - [eHealth](https://play.google.com/store/apps/details?id=bd.com.evaly.ehealth)
     - eHealth is the first digital one-stop health solution in Bangladesh. A sister concern of Evaly.com Limited,
       this application brings the 21st century care to your fingertips. This app will assist you in a comprehensive
       and convenient way to operate your health-related needs.
     - Led the Product also worked on Solution Design, Backend Development and Deployment.
-    - Tech Stack: `Microservice`, `AWS`, `Docker`, `Kuberenetes`, `Golang`, `NodeJS`, `MongoDB`, `PostgreSQL`,
-      `Redis`, `RabbitMQ`
+    - Tech Stack: `Microservice`, `AWS`, `Docker`, `Kubernetes`, `Golang`, `NodeJS`, `MongoDB`, `PostgreSQL`,
+      `Redis`, `RabbitMQ`, `Jenkins`
 
 - [eKhata](https://play.google.com/store/apps/details?id=bd.com.evaly.ekhata)
     - eKhata offers a digital ledger cash book service, providing SME businesses with a free, safe,
       and secure platform to manage customer accounts. Also shop owners to record credit and debit 
       transactions for their loyal customers.
-    - Led the Product also worked on Solution Design, Backend Development and Deployment.
+    - Co-Founded and Led the Product also worked on Solution Design, Backend Development and Deployment.
     - Tech Stack: `Microservice`, `AWS`, `Docker`, `Kuberenetes`, `NodeJS`, `MongoDB`, `PostgreSQL`, `Redis`
-    
+      `AzureDevOps`
+
 ### 2019-2020
 
-- [Evaly]
-- [eFood]
-- [eConnect]
-- [eBazar]
+- [Evaly](https://play.google.com/store/apps/details?id=bd.com.evaly.evalyshop)
+    - Evaly holds the title as Bangladesh's largest and most favored e-commerce marketplace,
+      trusted by over 7 million users. It provides a wide array of goods and products, spanning
+      from groceries to high-end luxury vehicles.
+    - Joined as founding Engineer. Hired, built and mentored team of 100+ resources, Designed the overall
+      system from scratch, developed & scaled 30+ microservices and successfully handled 1+ million request per minute. 
+    - Beside playing the role of CTO, actively worked as Backend Engineer and Led the Backend Team. 
+    - Tech Stack: `Event-Driven Microservice`, `Python/Django`, `NodeJs/NestJs`, `Golang`, `MySQL`, `PostgreSQL`, `MongoDB`,
+     `RedShift`, `ElasticSearch`, `Kafka`, `Redis`, `RabbitMQ`, `AzureDevOps`, `Jenkins`, `AWS`, `Docker`
+      `Kubernetes`.
+- [eFood](https://efood.live)
+    - eFood stands as an on-demand food delivery platform that consistently handles the highest or 
+      second-highest volume of orders nationwide among its competitors. With a user base of 4 million,
+      it efficiently manages over 100 orders per minute during peak hours.
+    - Contributed on Backend Architecture Design and Deployment.
+    - Tech Stack: `Microservice`, `Python`, `NodeJs`, `Django`, `Asyncio`, `PostgreSQL`, `MongoDB`, 
+      `ElasticSearch`, `Redis`, `RabbitMQ`, `Kafka`, `AzureDevOps`, `Docker`, `Kubernetes`, `AWS`
+
+- [eConnect](https://play.google.com/store/apps/details?id=bd.com.evaly.econnect)
+    - eConnect is an instant messaging application, built on XMPP, exclusively for users on Evaly's platform.
+      It enables 1-1 and group chats, doubling as a evaly customer support tool by efficiently assigning and 
+      managing customer service agents. 
+    - Designed and Developed the backend (ejabberd,REST microservie) from scratch also contributed on deployment.
+    - Tech Stack: `XMPP`, `Ejabberd`, `Microservice`, `NodeJs/ExpresJs`, `Mnesia`, `MySQL`, `AWS`
+
+- [eBazar](https://ebazar.com.bd)
+    - eBazar is a C2C resale platform designed for buying and selling both new and pre-owned
+      items across various categories. Another concern of Evaly.
+    - Co-Founded and Led the Product also worked on Solution Design, Backend Development and Deployment.
+    - Tech Stack: `Python/Django`, `PostgreSQL`, `ElasticSearch`,`Redis`, `AzureDevOps`, `AWS`, `Docker`,
+      `Kubernetes`, `ReactJs`, `NestJs`.
+
+    
 
 ### 2018-2019
 
-- [ekkHero]
+- [ekkHero](https://play.google.com/store/apps/details?id=com.ekkbaz.hero)
     - To Track business employee, sales re-presentative's KPI and take order from buyer for ekkBaz Business.
     - Led the team of 5 resources, Designed and Developed Backend Architecture.
     - Tech Stack: `Python`, `Django`, `Sanic`, `Redis`, `RabbitMQ` `MongoDB`, `PostgreSQL` `PostGIS`,
@@ -72,7 +130,7 @@ consultancy are below -
 
 ### 2017-2018
 
-- [ekkBaz]
+- [ekkBaz](https://ekkbaz.com)
     - EkkBaz is a B2B trade platform, designed specifically for small & medium businesses.
       It brings traders, wholesalers, retailers and manufacturers in one single platform for ease of trading.
     - Led and managed 20 resources, Solution Designed and Backend Development.
@@ -85,7 +143,7 @@ consultancy are below -
     - Led and managed team of 4 resources, Worked on Backend Design & Development in REST and XMPP/Ejabberd.
     - Tech Stack: `NodeJS/ExpressJS`, `MySQL`, `MongoDB`, `Ejabberd`, `XMPP`, `Mnesia`, `Azure`, `Nginx`, `Docker`
 
-- [Defense Tracker]
+- [Defense Tracker](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
     - Can't disclose the link or exact name due to NDA.
     - This application is being used by a country's National Security Intelligence team to track, monitor
     activities in training camp. Also provide visually summarize data for weekly or monthly. 
@@ -144,7 +202,7 @@ consultancy are below -
       swift home deliveries of medications. It boasts a 24/7 emergency operation and delivery service,
       along with health and medicine reminders, effortless medicine refills/reorders, and the capability
       to monitor progress seamlessly.
-    - Primarily worked in Backend Development and Deployment also Collaborated on Frontend.
+    - Primarily worked in Backend Development and Deployment from scratch also Collaborated on Frontend.
     - Tech Stack: `NodeJS/ExpressJS`, `MongoDB`, `Redis`, `Nginx`, `PythonFab`, `DigitalOcean`, `Firebase` 
 
 - [ASDetect](https://play.google.com/store/apps/details?id=au.edu.latrobe.asdetect)
@@ -158,14 +216,14 @@ consultancy are below -
 - [VisionIPTV](https://play.google.com/store/apps/details?id=com.powergroupbd.bdiptv)
     - Vision IPTV offers local and international Live TV Streamming channels including sports, enternatinment
       and movie archives.
-    - Worked as Full Stack to Develop and Design both backend and frontend applications
+    - Worked as Full Stack to Develop and Design both backend and frontend applications from scratch
     - Tech Stack: `Python`, `Django`, `Java/Android`, `MySQL`, `DigitalOcean`, `Nginx`, `Gunicorn`, `Firebase`
 
 - [Safaree](http://safaree.net)
     - Safaree offers a subscription-based entertainment mobile app tailored for Bangladeshi Expats
       residing in KSA and UAE. The services encompass a wide array of features such as local and
       international TV channels, FM channels, hotlines, and access to health emergency services.
-    - Designed and Developed Backend Monolith Services and Subscription module.
+    - Designed and Developed Backend Monolith Services and Subscription module from scratch.
     - Tech Stack: `Python`, `Django`, `MySQL`, `DigitalOcean`, `Nginx`, `Gunicorn`, `Firebase`, `Google Map SDK`
 
 
