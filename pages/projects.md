@@ -12,12 +12,22 @@ consultancy are below -
 
 ### 2023
 
-- [ComeraPay]
-- [Comera]
+- [ComeraPay](https://mycomera.com/)
+    - ComeraPay stands as Comera's mobile wallet application, providing services including fund transfers,
+      cash deposits, electronic transactions, bill payments, and remittance sending.
+    - I oversee the Backend Architecture, Solution Design and Guiding & reviewing backend code.
+    - Tech Stack: `Microservice`, `NodeJs/ExpressJs`, `MySQL`, `Third-Party Payment Integration`, `Docker`,
+       `AWS`, `Jenkins`, `NFC`  
 
-### 2021-2022
+- [Comera](https://mycomera.com/)
+    - A local market-oriented application in the UAE competing with platforms like WhatsApp and Telegram,
+      providing services such as voice calls, video calls, conference calls, instant messaging, and more.
+    - I Design solution and oversee the XMPP-Messaging segment also lead the Sustenance Team.
+    - Tech stack: `XMPP`, `MongooseIM`, `Erlang`, `NodeJs`, `MySQL`, `Cassandra`, `AWS`, `Jenkins`, `WebRTC`
 
-- [rDash360]
+### 2021 to 2022
+
+- [rDash360](https://rdash360.com/)
     - rDash360 serves as a comprehensive solution for overseeing inventory, orders, content, and logistics
       across various online marketplaces like Shopee, Tokopedia, Lazada, Blibli, Bukalapak, and more. 
       It empowers merchants and large brands to adeptly handle their omnichannel online sales, providing
@@ -26,7 +36,7 @@ consultancy are below -
     - Tech Stack: `Microservice`, `NodeJs/NestJs`, `PostgreSQL`, `MongoDB`, `RabbitMQ`, `Redis`, `AWS`
       `Docker`, `Kubernetes`, `Jenkins`
 
-- [RAENA]
+- [RAENA](https://play.google.com/store/apps/details?id=com.raenaapp)
     - RAENA is the largest beauty products reselling & dropship app in Indonesia, trusted by over 100,000
       beauty product sellers. RAENA supports Beautypreneur in starting and growing beauty business without
       any upfront capital and earn extra income up to Rp 10 million/month.
@@ -34,7 +44,7 @@ consultancy are below -
     - Tech stack: `NodeJs/ExpressJs`, `NestJs/Typescript`, `PostgreSQL`, `Redis`, `RabbitMQ`, `AWS`
       `Docker`, `Kubernetes`, `Jenkins`.
 
-### 2020-2021
+### 2020 to 2021
 
 
 - [eJob](https://ejob.com.bd)
@@ -69,7 +79,7 @@ consultancy are below -
     - Tech Stack: `Microservice`, `AWS`, `Docker`, `Kuberenetes`, `NodeJS`, `MongoDB`, `PostgreSQL`, `Redis`
       `AzureDevOps`
 
-### 2019-2020
+### 2019 to 2020
 
 - [Evaly](https://play.google.com/store/apps/details?id=bd.com.evaly.evalyshop)
     - Evaly holds the title as Bangladesh's largest and most favored e-commerce marketplace,
@@ -105,7 +115,7 @@ consultancy are below -
 
     
 
-### 2018-2019
+### 2018 to 2019
 
 - [ekkHero](https://play.google.com/store/apps/details?id=com.ekkbaz.hero)
     - To Track business employee, sales re-presentative's KPI and take order from buyer for ekkBaz Business.
@@ -128,7 +138,7 @@ consultancy are below -
     - Led team and worked on Backend Development mostly.
     - Tech Stack: `NodeJS`, `PostgreSQL`, `Redis`, `REST`, `SocketIO`, `Docker`, `Nginx`, `AWS`
 
-### 2017-2018
+### 2017 to 2018
 
 - [ekkBaz](https://ekkbaz.com)
     - EkkBaz is a B2B trade platform, designed specifically for small & medium businesses.
@@ -150,7 +160,7 @@ consultancy are below -
     - Worked in Backend Solution Design & Development
     - Tech Stack: `NodeJS`, `SocketIO`, `PostgreSQL`, `MongoDB`, `MQTT`, `Redis`, `IoT`
 
-### 2016-2017
+### 2016 to 2017
 
 - [TeachFlex](https://teachflex.com)
     - TeachFlex is a live online tutoring tool that allows teachers to provide live tutoring to students
@@ -188,7 +198,7 @@ consultancy are below -
     - Worked asb(Remote) Backend Engineer and Led the Backend team of 3 resources.
     - Tech stack: `NodeJS/ExpressJS`, `MongoDB`, `Python/Django`, `PostGIS`, `GoogleMaps`, `Docker`, `AWS`, `Lambda`
 
-### 2015-2016
+### 2015 to 2016
 
 - [DriverAnywhere](https://play.google.com/store/apps/details?id=com.limo.driverphase2)
     - DriverAnywhere allows limousine and livery drivers to manage trips, billing,
@@ -211,7 +221,7 @@ consultancy are below -
     - Freelance Project, Worked in Backend Team as Freelance Backend Engineer through third-party agency.
     - Tech Stack: `NodeJS/ExpressJS`, `MQTT`, `Redis`, `MongoDB`, `REST`, `PM2`.
 
-### 2014-2015
+### 2014 to 2015
 
 - [VisionIPTV](https://play.google.com/store/apps/details?id=com.powergroupbd.bdiptv)
     - Vision IPTV offers local and international Live TV Streamming channels including sports, enternatinment

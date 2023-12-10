@@ -253,17 +253,16 @@ reading and watching cricket and football matches.
 #### If you could be able to organize an intelectual dinner, what three people (live or dead) would you invite?
 
 The two first ones would be
-[Muhammad Yunus](https://en.wikipedia.org/wiki/Muhammad_Yunus)
+[Muhammad Yunus](https://en.wikipedia.org/wiki/Muhammad_Yunus) and 
 [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
 
-Third one would be a bit more difficult to choose between
-[Mohammad Rassel](https://www.linkedin.com/in/mohammadrassel/), one of the most
-brilliant master-minds I've ever meet.
+Third one would be a bit more difficult to choose between <br/>
+[Mohammad Rassel](https://www.linkedin.com/in/mohammadrassel/) (one of the most brilliant master-minds I've ever meet)<br/>
 and
-[Jack Ma](https://en.wikipedia.org/wiki/Jack_Ma)
+[Jack Ma](https://en.wikipedia.org/wiki/Jack_Ma) 
  or
-[Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs). That would make four and
-no three persons, but being there all of us 5, that would be a really
+[Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs).<br/>
+That would make four and no three persons, but being there all of us 5, that would be a really
 interesting dinner and maybe new projects or new ideas would appear there.
 
 
