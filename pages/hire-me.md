@@ -12,6 +12,11 @@ the terms and conditions. You can get more info about my past work experience at
 my [LinkedIn profile](https://www.linkedin.com/in/osmangoninahid/) or at my
 [Resume](https://www.osmangoni.info/osman-resume.pdf).
 
+<details>
+<summary markdown='span'>Wait ! Looking for Technical Co-Founder?</summary>
+
+Recently, I've been drawn more towards the world of business rather than traditional employment. If you're exploring the idea of starting a new venture or aiming to grow and advance your existing business by integrating technology, I'm enthusiastic about the possibility of becoming your technical co-founder.
+</details>
 
 ## What I'm lookinng for or My ideal job (AKA *Santa's letter*)
 
