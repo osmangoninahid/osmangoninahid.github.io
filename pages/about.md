@@ -3,14 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-Passionate Software Engineer with 10+ yrs of professional experience, engaged in the 
-Open Source community and wireless technology for the past 15 years.
-Having solid foundation in coding and began my full-time professional career in 2014.
-Over the past 10+ years, I've been working in various fields, ranging from B2B/B2C Marketplaces
-and E-commerce to Social Commerce, Food-Tech,FinTech, Supply Chain, Logistics/3PL, Messaging/XMPP,
-SaaS, PaaS, and more. My profile is purely technical, driven by a profound interest in scaling and automating businesses.
+Passionate Software Engineer with 10+ yrs of professional experience, Having solid foundation in coding and began my full-time professional career in 2014. Over the past 10+ years, I’ve been working in various fields, ranging from B2B/B2C Marketplaces and E-commerce to Social Commerce, Food-Tech, FinTech, Supply Chain, Logistics/3PL, Messaging/XMPP, SaaS, PaaS etc.
 
-My expertise lies in Backend development, focusing on solution design, architecture, and efficiently managing high-throughput, scalable infrastructures. I'm particularly enthusiastic about performance optimizations, cutting-edge technologies, and crafting clean APIs and architectures with a strong emphasis on minimalism, modularity, and reusability.
+My expertise lies in Backend development, focusing on solution design, architecture, and efficiently managing high-throughput, scalable infrastructures.
+
 I possess more than 8 years of hands-on experience with **NodeJS** and expertise in **Python**.
 I'm also familiar with **Erlang** and currently exploring **Golang**.
 In terms of cloud platforms, I prefer **AWS** also experienced with **Azure**. I'm well-versed in DevOps culture and tools such as K8s, Docker, CI/CD, and more.
