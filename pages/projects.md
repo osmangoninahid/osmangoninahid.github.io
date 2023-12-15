@@ -153,8 +153,7 @@ consultancy are below -
     - Led and managed team of 4 resources, Worked on Backend Design & Development in REST and XMPP/Ejabberd.
     - Tech Stack: `NodeJS/ExpressJS`, `MySQL`, `MongoDB`, `Ejabberd`, `XMPP`, `Mnesia`, `Azure`, `Nginx`, `Docker`
 
-- [Defense Tracker](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
-    - Can't disclose the link or exact name due to NDA.
+- [Defense Tracker](https://en.wikipedia.org/wiki/Non-disclosure_agreement) `Can't disclose the link or exact name due to NDA`
     - This application is being used by a country's National Security Intelligence team to track, monitor
     activities in training camp. Also provide visually summarize data for weekly or monthly. 
     - Worked in Backend Solution Design & Development
