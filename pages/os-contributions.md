@@ -21,6 +21,10 @@ It assists in generating NodeJS, Express.js, and MongoDB frameworks, complete wi
 
 The Flaskipy CLI streamlines the process of building modular scaffolding, facilitating the quick establishment of a backend RESTful setup. It aids in generating Python, Flask, and PostgreSQL frameworks, incorporating fundamental CRUD functionalities.
 
+## [nestjs-shopee](https://www.npmjs.com/package/@osmangoninahid/nestjs-shopee)
+
+Open-source NestJS module that simplifies Shopee API v2.0 interactions. This library streamlines Shopee authentication, store management, order processing (list, details, shipping, cancellations), and product inventory management. With easy-to-use methods, it enables seamless integration into applications, handling key functionalities for Shopee's platform effortlessly.
+
 ## [Android-Material-Design-Template](https://github.com/osmangoninahid/Android-Material-Design-Template)
 
 Android Material Design UI Template , with Google Design support , card view , butterknife , CoordinateLayout,
