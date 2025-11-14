@@ -20,19 +20,21 @@ I started my Masters on Computer Science,  but is currently on hold.
 
 ## Interesting facts
 
-- Co-Founder & Developer of [Potaka();](https://potaka.io)
-- Developed, deployed and scaled a nationwide tech eco-system for over **7 million** users, managing more than 1 million concurrent requests.
-- [Currently](https://mycomera.com) Crafting and expanding solutions for **4+ million** users to ensure a smooth XMPP connection.
-- Champion (People's choice) of [NASA Space Apps Challenge Bangladesh in 2016](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar)
-- CTO of [Evaly](https://play.google.com/store/apps/details?id=bd.com.evaly.evalyshop)
-- I mentored and collaborated with a team to bring out their best, resulting in the rapid development and deployment of different products like
- [rDash360](https://rdash360.com/),
- [eKhata](https://ekhata.com.bd), 
- [eJobs](https://play.google.com/store/apps/details?id=bd.com.evaly.ejobs),
- [eHealth](https://play.google.com/store/apps/details?id=bd.com.evaly.ehealth) &
- [eFood](https://efood.com.bd)
-- Trainer Object Oriented Programming, System Design and DSA
-- Participated Several National & Onsite Programming Contest
+- Currently part of **[Open Innovation AI](https://openinnovation.ai)** — building **MLOps and LLMOps platforms** that make AI model deployment, monitoring, and scaling seamless across multi-cluster Kubernetes environments.  
+- **Co-Founder & Developer** of [**Potaka();**](https://potaka.io) — a sentence-based programming language that helps beginners learn coding through native Bengali syntax.  
+- Designed and scaled **distributed backend and AI infrastructure** powering products used by **millions** of users across e-commerce, fintech, and communication platforms.  
+- **Former Lead Engineer & Solution Architect** at [**Comera**](https://mycomera.com), where I architected and optimized a real-time messaging system serving **4M+ users**, ensuring reliable and low-latency XMPP connections.  
+- **CTO of [Evaly](https://play.google.com/store/apps/details?id=bd.com.evaly.evalyshop)** — led and scaled the country’s largest e-commerce ecosystem to serve **7M+ users** and manage **1M+ concurrent requests per minute**.  
+- **Champion (People’s Choice)** winner at [**NASA Space Apps Challenge Bangladesh 2016**](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar) for developing *Agro Skylab Durbar*, a satellite-data-driven agricultural platform.  
+- Mentored and led engineering teams to build and launch platforms including  
+  [**rDash360**](https://rdash360.com/),  
+  [**eKhata**](https://ekhata.com.bd),  
+  [**eJobs**](https://play.google.com/store/apps/details?id=bd.com.evaly.ejobs),  
+  [**eHealth**](https://play.google.com/store/apps/details?id=bd.com.evaly.ehealth), and  
+  [**eFood**](https://efood.com.bd).  
+- Trainer in **Object-Oriented Programming, System Design, and Data Structures & Algorithms**, helping engineers strengthen fundamentals and real-world design thinking.  
+- Actively participate in **national and on-site programming contests**, fostering continuous learning and collaboration within the developer community.
+
 
 ### Countries/Cities visited
 
