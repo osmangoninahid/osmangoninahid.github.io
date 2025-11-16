@@ -12,7 +12,7 @@ consultancy are below -
 
 ### 2023 to 2024
 
--[MizMiz](https://mizmiz.com/)
+- [MizMiz](https://mizmiz.com/)
     - MizMiz is a TikTok-like short video content platform focused on user-generated video sharing and engagement.
     - I worked on the **video transcription pipeline**, enabling automatic caption generation and metadata extraction for uploaded videos to enhance accessibility and searchability.
     - Tech Stack: `Python`, `NestJS`, `FFmpeg`, `AWS-CloudFront`, `AWS S3`, `AWS-Neptune`, `Redis`, `GraphQL`, `Docker`, `Kubernetes`
