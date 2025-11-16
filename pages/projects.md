@@ -10,6 +10,28 @@ consultancy are below -
 
 ## Chronology
 
+### 2025
+
+- [OICM](https://openinnovation.ai/open-innovation-cluster-manager/) — *Open Innovation AI, Abu Dhabi*
+    - OICM is the flagship AI/ML platform of Open Innovation AI, designed to orchestrate and manage large-scale machine learning workloads across distributed GPU clusters. 
+    - I lead the **Platform Engineering & MLOps** initiatives — designing and maintaining distributed microservices for AI/ML orchestration, GPU scheduling, and resource quota management.
+    - Key contributions include:
+        - Building a **multi-cluster GPU monitoring system** with Prometheus, DCGM, and Loki.
+        - Developing **tenant-aware storage and resource quota management** for NFS/OBS/MinIO/FlashBlade.
+        - Implementing **custom exporters and controllers** for GPU metrics, workload status, and event persistence.
+        - Designing CI/CD pipelines with Helm, Terraform, and GitLab CI for cluster-wide deployments.
+    - Tech Stack: `Kubernetes`, `Helm`, `Terraform`, `Python`, `Go`, `Prometheus`, `Loki`, `Grafana`, `Flask`, `FastAPI`, `MongoDB`, `PostgreSQL`, `Ray`, `Volcano`, `NVIDIA DCGM`, `GitLab CI`, `vLLM`, `TGI`, `SGLang`.
+
+- [GitGossip](https://github.com/osmangoninahid/gitgossip)
+    - GitGossip is an open-source CLI tool that generates **AI-powered human-readable summaries** of Git commits, repository activities, and merge requests.
+    - I designed the project architecture with a modular service layer, focusing on testability, SOLID design, and LLM integration for semantic summarization.
+    - Core components include:
+        - `RepoDiscoveryService` for detecting repositories and commits.
+        - `CommitParser` for structured commit analysis.
+        - `SummarizerService` and `ILLMAnalyzer` for natural language summaries.
+        - CLI built using `Typer`, integrated with `Rich` for a polished terminal experience.
+    - Tech Stack: `Python`, `Typer`, `Pydantic v2`, `GitPython`, `Rich`, `pytest`, `Ruff`, `Mypy`, `Black`, `LLM APIs`, `OpenAI`
+
 ### 2023 to 2024
 
 - [MizMiz](https://mizmiz.com/)
