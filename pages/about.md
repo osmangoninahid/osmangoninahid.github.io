@@ -53,6 +53,13 @@ I was born and raised in Bangladesh, and I am currently residing in the UAE, whe
   - **Cappadocia**
   - **Antalya**
   - **Analya**
+- 🇬🇪 **Georgia**: 
+  - **Tbilisi** 
+  - **Kutaisi**
+  - **Batumi**
+  - **Borjomi**
+  - **Gudauri**
+  - **Gori**
 - 🇮🇳 **India**:
   - **Delhi**
   - **Himachal Pradesh**
