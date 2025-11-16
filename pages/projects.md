@@ -10,9 +10,14 @@ consultancy are below -
 
 ## Chronology
 
-### 2023
+### 2023 to 2024
 
-- [ComeraPay](https://mycomera.com/)
+-[MizMiz](https://mizmiz.com/)
+    - MizMiz is a TikTok-like short video content platform focused on user-generated video sharing and engagement.
+    - I worked on the **video transcription pipeline**, enabling automatic caption generation and metadata extraction for uploaded videos to enhance accessibility and searchability.
+    - Tech Stack: `Python`, `NestJS`, `FFmpeg`, `AWS-CloudFront`, `AWS S3`, `AWS-Neptune`, `Redis`, `GraphQL`, `Docker`, `Kubernetes`
+
+- [ComeraPay](https://comerapay.com/)
     - ComeraPay stands as Comera's mobile wallet application, providing services including fund transfers,
       cash deposits, electronic transactions, bill payments, and remittance sending.
     - I oversee the Backend Architecture, Solution Design and Guiding & reviewing backend code.
@@ -22,8 +27,8 @@ consultancy are below -
 - [Comera](https://mycomera.com/)
     - A local market-oriented application in the UAE competing with platforms like WhatsApp and Telegram,
       providing services such as voice calls, video calls, conference calls, instant messaging, and more.
-    - I Design solution and oversee the XMPP-Messaging segment also lead the Sustenance Team.
-    - Tech stack: `XMPP`, `MongooseIM`, `Erlang`, `NodeJs`, `MySQL`, `Cassandra`, `AWS`, `Jenkins`, `WebRTC`
+    - I design solutions and oversee the XMPP-Messaging segment, also leading the Sustenance Team.
+    - Tech Stack: `XMPP`, `MongooseIM`, `Erlang`, `Node.js`, `MySQL`, `Cassandra`, `AWS`, `Jenkins`, `WebRTC`
 
 ### 2021 to 2022
 
