@@ -4,13 +4,15 @@ title: Hire me
 permalink: /hire-me/
 ---
 
-If you are looking for someone with **10+ yrs** of solid expericence, 6+ yrs of experience
-in **leading and managing** team(s), and products/technologies I've been working on, I'm
-available for hiring. I'm mainly interested on remote position (both
-short and long term), but sometimes I'm open to consider on-site position, if both location and offer are interesting, and we can negotiate
-the terms and conditions. You can get more info about my past work experience at
-my [LinkedIn profile](https://www.linkedin.com/in/osmangoninahid/) or at my
-[Resume](https://www.osmangoni.info/osman-resume.pdf).
+I bring **12+ yrs** of solid experience and 8+ yrs of experience
+in **leading and managing** team(s). I'm currently employed at
+[**Open Innovation AI**](https://openinnovation.ai) in Abu Dhabi and not actively
+job hunting, but I'm selectively open to conversations — especially with founders
+and potential partners building something worth building. If what you're working on
+fits the areas below, reach out and we can talk.
+You can get more info about my past work experience at
+my [LinkedIn profile](https://www.linkedin.com/in/osmangoninahid/), or
+[email me](mailto:osmangoni.se@gmail.com) for a current copy of my resume.
 
 <details>
 <summary markdown='span'>Wait ! Looking for Technical Co-Founder?</summary>
@@ -215,7 +217,7 @@ proud of, both mine or from others, in the [projects](projects.md) page.
   easy "Bangla Programming Language" for kids and beginners named [Potaka();](https://potaka.io)
 - Developed, deployed and scaled a nationwide tech eco-system for over **7 million** users, **2 million**
   app downloads and managing more than 1 million concurrent requests.
-- [Currently](https://mycomera.com) Crafting and expanding solutions for **4+ million** users
+- At [Comera](https://mycomera.com), crafted and expanded solutions for **4+ million** users
    to ensure a smooth XMPP connection.
 - CTO of [Evaly](https://play.google.com/store/apps/details?id=bd.com.evaly.evalyshop)
 
@@ -299,10 +301,12 @@ ones from the others.
 
 #### Do you currently have a job? What do you like and dislike about it?
 
-Currently I'm working as *Lead Engineer & Solution Architect* for [Comera](https://www.mycomera.com/) as
-my main job and as part-time freelance developer, consultor and auditor. In that
-way, I'm always actively looking for freelance projects to work on remote in my
-spare time (maybe yours! :-D ).
+Currently I'm working as *Senior Software Engineer / Technical Lead* at
+[Open Innovation AI](https://openinnovation.ai), building the OICM platform —
+MLOps infrastructure, storage/data-volume systems, and AI/ML supply-chain
+security scanning on Kubernetes. I like the depth of the work and the pace of
+the team. I'm not actively looking, but I stay open to conversations with
+founders and potential partners on interesting problems.
 
 
 #### If I made you an offer, what would make you to reject it?

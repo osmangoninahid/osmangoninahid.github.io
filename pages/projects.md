@@ -10,6 +10,29 @@ consultancy are below -
 
 ## Chronology
 
+### 2026
+
+- AI Model Supply-Chain Scanning
+    - At work, I built a scanning service from scratch that checks AI/ML model files and datasets for malicious content before they reach the cluster — combining `modelaudit`, `picklescan`, and `ClamAV` in an ephemeral Kubernetes pod on a minimal `wolfi-base` image, with scan-run history and per-file findings APIs.
+    - Tech Stack: `Python`, `Kubernetes`, `modelaudit`, `picklescan`, `ClamAV`, `Flask`, `MongoDB`, `GitLab CI`
+
+- [GitGossip v0.2](https://github.com/osmangoninahid/gitgossip)
+    - Shipped v0.2 of my AI-powered git commit/MR summarizer CLI, published to [PyPI](https://pypi.org/project/gitgossip/) and Homebrew with automated release CI.
+    - New in v0.2: a zero-setup **agent-CLI provider** (uses Claude Code or Codex directly — no API key needed), a `commit` command, and custom prompt templates.
+    - Tech Stack: `Python`, `Typer`, `Rich`, `GitPython`, `Pydantic v2`, `pytest`, `Ruff`, `Mypy`
+
+- [tmux-claude-attn](https://github.com/osmangoninahid/tmux-claude-attn)
+    - A tmux plugin that flags windows where Claude Code is waiting for approval — event-driven via hooks (no polling), installable with TPM, tested with a headless tmux harness, shellcheck + Ubuntu/macOS CI, MIT licensed.
+    - Tech Stack: `Shell`, `tmux`, `GitHub Actions`
+
+- [configurable-http-proxy (JupyterHub)](https://github.com/jupyterhub/configurable-http-proxy)
+    - Contributed a Redis-backed route store to JupyterHub's proxy: new `lib/store.js` implementation, a 155-line test spec, docs, and CLI flags — upstream [PR #654](https://github.com/jupyterhub/configurable-http-proxy/pull/654), in review.
+    - Tech Stack: `Node.js`, `Redis`, `Jasmine`
+
+- [modelaudit (promptfoo)](https://github.com/promptfoo/modelaudit)
+    - Fixed a scanner bug where a SafeTensors u64 header low byte (0x82) was misclassified as a pickle EXT1 opcode, causing false positives; fix plus tests in [PR #1745](https://github.com/promptfoo/modelaudit/pull/1745), in review.
+    - Tech Stack: `Python`, `pytest`
+
 ### 2025
 
 - [OICM](https://openinnovation.ai/open-innovation-cluster-manager/) — *Open Innovation AI, Abu Dhabi*
@@ -58,7 +81,7 @@ consultancy are below -
     - rDash360 serves as a comprehensive solution for overseeing inventory, orders, content, and logistics
       across various online marketplaces like Shopee, Tokopedia, Lazada, Blibli, Bukalapak, and more. 
       It empowers merchants and large brands to adeptly handle their omnichannel online sales, providing
-      seamless management capabilities akin to professional expertise.
+      management capabilities akin to professional expertise.
     - Led the team of 5 resources, Designed and Developed Backend Microservices also contributed on Deployment.
     - Tech Stack: `Microservice`, `NodeJs/NestJs`, `PostgreSQL`, `MongoDB`, `RabbitMQ`, `Redis`, `AWS`
       `Docker`, `Kubernetes`, `Jenkins`
@@ -83,7 +106,7 @@ consultancy are below -
      `Jenkins`, `ReactJs`, `NextJs`.
     
 - [eLogistic](https://elogistics.com.bd)
-    - eLogistic serves as a comprehensive fleet and logistics aggregator, seamlessly integrating Evaly's internal
+    - eLogistic serves as a comprehensive fleet and logistics aggregator, integrating Evaly's internal
       operations with third-party logistics (3PL) and partners. It facilitates various delivery services
       such as on-demand, same-day, express, and regular trucking through a unified platform.
     - Led the over-all product and team, Designed the solution from scratch.
@@ -198,7 +221,7 @@ consultancy are below -
 
 - [FinWallet](https://play.google.com/store/apps/details?id=pseudozero.smalam.com.finwallet)
     - FinWallet is SBAC Bank's digital wallet app enabling account holders to manage various banking
-      activities seamlessly. Users can perform tasks such as fund transfers, bill payments, remittance,
+      activities. Users can perform tasks such as fund transfers, bill payments, remittance,
       access account statements, and even withdraw cash directly through the app.
     - Led the cross-functional team and Worked in Backend Development.
     - Tech Stack: `Python/Django`, `MySQL`, `Python Fabric`, `AWS`, `supervisor`, `Nginx`
@@ -220,7 +243,7 @@ consultancy are below -
 - [LocalInsights](https://localinsights.io/)
     - LocalInsights initially began as a mortgage company but pivoted towards becoming a 
       successful data provider after struggling in the mortgage business. Recognizing the potential
-      in aggregating public data, they transformed themselves and thrived by leveraging this data as a competitive edge.
+      in aggregating public data, they transformed themselves and thrived by using this data as a competitive edge.
     - Worked asb(Remote) Backend Engineer and Led the Backend team of 3 resources.
     - Tech stack: `NodeJS/ExpressJS`, `MongoDB`, `Python/Django`, `PostGIS`, `GoogleMaps`, `Docker`, `AWS`, `Lambda`
 
@@ -237,7 +260,7 @@ consultancy are below -
     - DrugBD pioneers the realm of medicine e-commerce, facilitating online orders and 
       swift home deliveries of medications. It boasts a 24/7 emergency operation and delivery service,
       along with health and medicine reminders, effortless medicine refills/reorders, and the capability
-      to monitor progress seamlessly.
+      to monitor progress.
     - Primarily worked in Backend Development and Deployment from scratch also Collaborated on Frontend.
     - Tech Stack: `NodeJS/ExpressJS`, `MongoDB`, `Redis`, `Nginx`, `PythonFab`, `DigitalOcean`, `Firebase` 
 

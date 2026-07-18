@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-I’m a **Backend & Platform Engineering Leader** with 10+ years of experience building software from the ground up and scaling it to serve millions of users. Over the years, I’ve worked across diverse domains — including e-commerce, fintech, logistics, messaging/XMPP, and SaaS — often joining startups as a founding engineer and helping them grow into large-scale, high-performing teams.
+I’m a **Backend & Platform Engineering Leader** with 12+ years of experience (since February 2014) building software from the ground up and scaling it to serve millions of users. Over the years, I’ve worked across diverse domains — including e-commerce, fintech, logistics, messaging/XMPP, and SaaS — often joining startups as a founding engineer and helping them grow into large-scale, high-performing teams. That arc took me from founding engineer to **CTO of Evaly**, where I built a 100+ member engineering organization behind a platform serving **7M+ users**.
 
-My expertise lies in **backend architecture, distributed systems, and AI infrastructure**, with deep hands-on experience in **NodeJS** and **Python**, and growing focus on **Golang**. I’m passionate about designing **scalable, reliable systems** powered by **Kubernetes, Docker, Terraform**, and **AWS**. I care deeply about developer experience, system observability, and operational excellence.
+My expertise lies in **backend architecture, distributed systems, and AI infrastructure**, with deep hands-on experience in **Python** and **NodeJS**, and daily work in **Golang**. I design and run systems on **Kubernetes, Docker, Terraform**, and **AWS**, and I care deeply about developer experience, system observability, and operational excellence.
 
-Currently, I’m part of **Open Innovation AI (OICM)**, where I focus on **MLOps, LLMOps, and AI platform engineering** — building systems that simplify model deployment, scaling, and monitoring. Previously, I led backend architecture at [**Comera**](https://mycomera.com), a UAE-based messaging platform competing with WhatsApp and Telegram. I also earned the [**NASA Space Apps Challenge People’s Choice Award**](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar) in 2016 for innovation in real-time satellite data systems.
+Currently, I’m at **Open Innovation AI** in Abu Dhabi, doing **platform engineering and MLOps** on [**OICM**](https://openinnovation.ai/open-innovation-cluster-manager/), the company’s AI cluster manager. I own its **storage and data-volume subsystem** end to end and build **AI/ML supply-chain security scanning** for model files. Previously, I led backend architecture at [**Comera**](https://mycomera.com), a UAE-based messaging platform competing with WhatsApp and Telegram. I also earned the [**NASA Space Apps Challenge People’s Choice Award**](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar) in 2016 for innovation in real-time satellite data systems.
 
 
 ## Academic experience
@@ -20,11 +20,11 @@ I started my Masters on Computer Science,  but is currently on hold.
 
 ## Interesting facts
 
-- Currently part of **[Open Innovation AI](https://openinnovation.ai)** — building **MLOps and LLMOps platforms** that make AI model deployment, monitoring, and scaling seamless across multi-cluster Kubernetes environments.  
+- Currently part of **[Open Innovation AI](https://openinnovation.ai)** — building the **OICM MLOps platform** on multi-cluster Kubernetes; I own the storage/data-volume subsystem and build AI/ML supply-chain security scanning for model files.  
 - **Co-Founder & Developer** of [**Potaka();**](https://potaka.io) — a sentence-based programming language that helps beginners learn coding through native Bengali syntax.  
 - Designed and scaled **distributed backend and AI infrastructure** powering products used by **millions** of users across e-commerce, fintech, and communication platforms.  
 - **Former Lead Engineer & Solution Architect** at [**Comera**](https://mycomera.com), where I architected and optimized a real-time messaging system serving **4M+ users**, ensuring reliable and low-latency XMPP connections.  
-- **CTO of [Evaly](https://play.google.com/store/apps/details?id=bd.com.evaly.evalyshop)** — led and scaled the country’s largest e-commerce ecosystem to serve **7M+ users** and manage **1M+ concurrent requests per minute**.  
+- **CTO of [Evaly](https://play.google.com/store/apps/details?id=bd.com.evaly.evalyshop)** — led and scaled the country’s largest e-commerce ecosystem to serve **7M+ users** and manage **1M+ requests per minute**.  
 - **Champion (People’s Choice)** winner at [**NASA Space Apps Challenge Bangladesh 2016**](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar) for developing *Agro Skylab Durbar*, a satellite-data-driven agricultural platform.  
 - Mentored and led engineering teams to build and launch platforms including  
   [**rDash360**](https://rdash360.com/),  
