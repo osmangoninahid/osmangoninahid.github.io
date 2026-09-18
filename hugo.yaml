@@ -15,6 +15,8 @@ menu:
     - {name: Hire me, url: "hire-me/", weight: 3}
 
 params:
+  author: Osman Goni Nahid
+  images: [images/os.jpeg]
   description: Backend & platform engineer. MLOps, GPU orchestration, distributed storage, Kubernetes. Python, Go, Node.
   footer: "&copy; Osman Goni Nahid {Year} &middot; [github](https://github.com/osmangoninahid) &middot; [linkedin](https://www.linkedin.com/in/osmangoninahid) &middot; [x](https://x.com/osmangoninahid) &middot; [rss](/index.xml)"
 
@@ -30,6 +32,16 @@ markup:
     startLevel: 2
     endLevel: 3
 
+outputFormats:
+  LLMS:
+    mediaType: text/plain
+    baseName: llms
+    isPlainText: true
+  LLMSFULL:
+    mediaType: text/plain
+    baseName: llms-full
+    isPlainText: true
+
 outputs:
-  home: [HTML, RSS]
+  home: [HTML, RSS, LLMS, LLMSFULL]
   section: [HTML, RSS]

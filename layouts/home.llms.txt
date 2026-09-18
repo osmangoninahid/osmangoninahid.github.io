@@ -1,0 +1,16 @@
+# {{ .Site.Title }}
+
+> {{ .Site.Params.description }}
+
+Personal site and blog of {{ .Site.Params.author }}. Posts are first-hand engineering notes: what broke, how it was fixed, what could be better.
+
+## Posts
+{{ range where .Site.RegularPages "Section" "posts" }}
+- [{{ .Title }}]({{ .Permalink }}): {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}{{ end }}
+
+## Pages
+{{ range where .Site.RegularPages "Section" "!=" "posts" }}
+- [{{ .Title }}]({{ .Permalink }}){{ end }}
+
+## Full text
+- [llms-full.txt]({{ "llms-full.txt" | absURL }})
