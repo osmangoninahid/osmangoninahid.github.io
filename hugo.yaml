@@ -1,0 +1,35 @@
+baseURL: https://osmangoninahid.github.io/
+languageCode: en-us
+title: Osman Goni Nahid
+theme: xmin
+enableRobotsTXT: true
+timeZone: Asia/Dubai
+
+permalinks:
+  posts: /:slug/
+
+menu:
+  main:
+    - {name: Blog, url: "posts/", weight: 1}
+    - {name: About, url: "about/", weight: 2}
+    - {name: Hire me, url: "hire-me/", weight: 3}
+
+params:
+  description: Backend & platform engineer. MLOps, GPU orchestration, distributed storage, Kubernetes. Python, Go, Node.
+  footer: "&copy; Osman Goni Nahid {Year} &middot; [github](https://github.com/osmangoninahid) &middot; [linkedin](https://www.linkedin.com/in/osmangoninahid) &middot; [x](https://x.com/osmangoninahid) &middot; [rss](/index.xml)"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: github
+    noClasses: false
+    lineNos: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+
+outputs:
+  home: [HTML, RSS]
+  section: [HTML, RSS]

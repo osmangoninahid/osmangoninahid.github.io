@@ -1,0 +1,1 @@
+<figure><video controls playsinline preload="metadata"{{ with .Get "poster" }} poster="{{ . }}"{{ end }}{{ if .Get "loop" }} loop muted autoplay{{ end }}><source src="{{ .Get "src" }}" type="video/mp4"></video>{{ with .Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}</figure>
