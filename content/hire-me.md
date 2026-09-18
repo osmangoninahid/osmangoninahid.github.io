@@ -17,6 +17,22 @@ I am a tech lead at [Open Innovation AI](https://openinnovation.ai) in Abu Dhabi
 - Ownership of a system or a team, with a say in where it goes.
 - Remote or hybrid, UTC+4. Relocation is possible for the right role.
 
+## Co-founder?
+
+If you are starting something and need a technical co-founder, I am open to that conversation too. I like building products from zero and I have done it a few times.
+
+## Questions I get asked
+
+**Do you do take-home tests?** Yes, but I prefer paid ones. My [GitHub](https://github.com/osmangoninahid) and [projects](/projects/) show how I work; if that is not enough, hire me for a few hours on a real task in your codebase.
+
+**Where are you?** Abu Dhabi, UTC+4. I travel often between UTC+1 and UTC+6.
+
+**Remote?** Remote or hybrid works best. On-site or relocation depends on the role.
+
+**Favourite stack?** Whatever fits the problem. Python or Go for most backend work, Node when the team is there, Erlang when it is about messaging.
+
+**Alone or in a team?** A team. I like small teams that ship and review their own work.
+
 ## Contact
 
 [osmangoni.se@gmail.com](mailto:osmangoni.se@gmail.com) or [LinkedIn](https://www.linkedin.com/in/osmangoninahid/). Ask and I will send a current resume.

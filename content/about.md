@@ -14,9 +14,10 @@ I write here about problems I hit at work, how we solved them, and what I would 
 
 - Co-founder of [Potaka();](https://potaka.io), a beginner programming language with Bengali syntax.
 - People's Choice winner at [NASA Space Apps Challenge 2016](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar) for Agro Skylab Durbar.
-- I have taught OOP, system design and data structures to working engineers.
 - BSc in Software Engineering. Started an MSc in Computer Science; on hold.
+- I have taught OOP, system design and data structures to working engineers, and I still join programming contests when I can.
 - Born and raised in Bangladesh. Living in the UAE on a Golden Visa.
+- I like to travel: UAE, Turkey, Georgia and India so far.
 
 ## What people say
 
