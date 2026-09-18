@@ -43,6 +43,8 @@ The retry decorator wrapped the entire function: walk, hash, POST. A transient 5
 
 ## The fix
 
+{{< figure src="/images/hashing-every-byte-twice.gif" alt="Before: download, hash all files for the tree, hash all files again for the checksum, 1000 GiB read. After: download, hash once, then tree and checksum reuse the digests, 500 GiB read." caption="Before and after: the same digest, half the reads." >}}
+
 Small, once the causes were clear:
 
 1. Hash once. A new `compute_file_hashes(mount_path)` returns `{path: digest}` and both `store_file_tree` and `store_checksum` accept that map instead of hashing themselves.
