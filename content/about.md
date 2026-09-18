@@ -4,7 +4,7 @@ url: /about/
 ---
 I am a backend and platform engineer. I have been building and running systems since 2014, from small startups to products used by millions of people.
 
-Today I work at [Open Innovation AI](https://openinnovation.ai) in Abu Dhabi as a tech lead on [OICM](https://openinnovation.ai/open-innovation-cluster-manager/), a platform that runs AI workloads on GPU clusters. I work across the platform: model deployment and inference, GPU scheduling and MIG, multi-cluster operations, storage. Lately mostly storage.
+Today I work at [Open Innovation AI](https://openinnovation.ai) in Abu Dhabi as a tech lead on [OICM](https://openinnovation.ai/open-innovation-cluster-manager/), a platform that runs AI workloads on GPU clusters. I work across the platform: model deployment and inference, GPU scheduling and MIG, multi-cluster operations, storage. These days most of my time goes to storage.
 
 Before that I led backend and messaging at [Comera](https://mycomera.com) in the UAE, and I was CTO at [Evaly](https://play.google.com/store/apps/details?id=bd.com.evaly.evalyshop) in Bangladesh, where the team grew to 100+ engineers and the platform served 7M+ users.
 
