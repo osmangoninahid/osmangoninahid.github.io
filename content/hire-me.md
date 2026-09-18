@@ -2,21 +2,20 @@
 title: "Hire me"
 url: /hire-me/
 ---
-I work at [Open Innovation AI](https://openinnovation.ai) in Abu Dhabi and I am not looking for a job. I am open to a conversation if you are building something serious and need a technical partner, an advisor, or a hands-on lead for a hard backend or infrastructure problem.
+I am a tech lead at [Open Innovation AI](https://openinnovation.ai) in Abu Dhabi, building an AI platform on GPU clusters. I am not actively looking, but I am open to the right Lead, Staff or Engineering Manager role in the AI/ML infrastructure space.
 
-## What I am good at
+## Where I fit
 
-- Backend architecture and distributed systems.
-- Kubernetes platforms: GPU scheduling, storage, multi-cluster operations.
-- MLOps and inference infrastructure.
-- Taking a product from idea to a system that holds up under real traffic.
-- Building and leading engineering teams. I have hired and led teams from 5 to 100+.
+- Backend and platform engineering for AI/ML: MLOps, model deployment, inference.
+- GPU orchestration and scheduling on Kubernetes, multi-cluster operations.
+- Distributed systems that have to hold up under real load.
+- Leading engineers. I have built and led teams from 5 to 100+, and I still write code.
 
-## What fits
+## What I look for
 
-- Remote or hybrid, UTC+4. I travel often.
-- A problem with real technical depth, not a feature factory.
-- A team that ships and reviews its own work.
+- A real technical problem in AI infrastructure, not a feature factory.
+- Ownership of a system or a team, with a say in where it goes.
+- Remote or hybrid, UTC+4. Relocation is possible for the right role.
 
 ## Contact
 
