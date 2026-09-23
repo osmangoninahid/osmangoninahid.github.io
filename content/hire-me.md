@@ -32,7 +32,7 @@ If you are starting something and need a technical co-founder, I am open to that
 
 **Remote?** Remote or hybrid works best. On-site or relocation depends on the role.
 
-**Favourite stack?** Whatever fits the problem. Python or Go for most backend work, Node when the team is there, Erlang when it is about messaging.
+**Favourite stack?** The one that fits the problem. Python and Go for most backend and platform work. Rust where speed and a small footprint matter, like CLI tools and anything on the data path. Node when that is what the team knows. Erlang when it is about messaging.
 
 **Alone or in a team?** A team. I like small teams that ship and review their own work.
 
