@@ -17,9 +17,12 @@ I am a tech lead at [Open Innovation AI](https://openinnovation.ai) in Abu Dhabi
 - Ownership of a system or a team, with a say in where it goes.
 - Remote or hybrid, UTC+4. Relocation is possible for the right role.
 
-## Co-founder?
+<details>
+<summary>Looking for a technical co-founder?</summary>
 
 If you are starting something and need a technical co-founder, I am open to that conversation too. I like building products from zero and I have done it a few times.
+
+</details>
 
 ## Questions I get asked
 
