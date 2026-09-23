@@ -20,11 +20,11 @@ Things I built or helped build, newest first. Full-time, freelance and side proj
     - Tech Stack: `Shell`, `tmux`, `GitHub Actions`
 
 - [configurable-http-proxy (JupyterHub)](https://github.com/jupyterhub/configurable-http-proxy)
-    - Added a Redis-backed route store so routes survive proxy restarts. [PR #654](https://github.com/jupyterhub/configurable-http-proxy/pull/654), in review.
+    - Added a Redis-backed route store so routes survive proxy restarts. Not merged upstream; we run the fork: [commit d739434](https://github.com/osmangoninahid/configurable-http-proxy/commit/d739434).
     - Tech Stack: `Node.js`, `Redis`, `Jasmine`
 
 - [modelaudit (promptfoo)](https://github.com/promptfoo/modelaudit)
-    - Fixed a false positive where a SafeTensors header byte was read as a pickle opcode. [PR #1745](https://github.com/promptfoo/modelaudit/pull/1745).
+    - Fixed a false positive where a SafeTensors header byte was read as a pickle opcode. Closed upstream; the fix lives in our fork: [commit 6d70f50](https://github.com/osmangoninahid/modelaudit/commit/6d70f500).
     - Tech Stack: `Python`, `pytest`
 
 ### 2025
