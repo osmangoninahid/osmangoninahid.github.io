@@ -125,9 +125,8 @@ MIG is the other direction. One H100 becomes up to seven isolated slices, each s
 
 TFLOPS come in at step 3, for long prompts, where compute finally matters.
 
-## What could be better
+## Where this simplifies
 
-- The 1.3× headroom should become measured KV footprints per model family. The inspector already has the numbers; the planner does not read them yet.
-- Paged attention and prefix caching change the KV math. Measure with your real prompts.
-- Speculative decoding breaks the bandwidth ceiling. Separate post.
-- Cost is missing. One card that fits is usually cheaper per token than two that need NVLink.
+- The KV formula is for dense attention. Paged attention and prefix caching lower the real number. Measure with your own prompts.
+- The bandwidth ceiling is for plain decoding. Speculative decoding reads the big model less often and beats it.
+- Cost is not in the four numbers. One card that fits is usually cheaper per token than two that need NVLink.
