@@ -4,7 +4,6 @@ date: 2026-09-23
 slug: gpu-numbers-for-llm-inference
 tags: [gpu, inference, llm, kubernetes, capacity-planning]
 description: "Memory, bandwidth, precision, scaling. What each one means, how to compute it, and how to check it on a real GPU."
-draft: true
 ---
 
 You have a model. You have a GPU, or a budget for one. Will it serve? TFLOPS will not tell you. These four numbers will, in this order.
