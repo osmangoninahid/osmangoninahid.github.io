@@ -10,6 +10,7 @@ I am a tech lead at [Open Innovation AI](https://openinnovation.ai) in Abu Dhabi
 - GPU orchestration and scheduling on Kubernetes, multi-cluster operations.
 - Distributed systems that have to hold up under real load.
 - Leading engineers. I have built and led teams from 5 to 100+, and I still write code.
+- Scoping work across backend, frontend, infra and QA, and shipping it as a team.
 
 ## What I look for
 

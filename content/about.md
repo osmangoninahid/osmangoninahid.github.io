@@ -12,6 +12,7 @@ I write here about problems I hit at work, how we solved them, and what I would 
 
 ## A few things
 
+- Systems I have run: 1M+ requests a minute at 99.95% uptime; 5M+ chat messages a day with 30K users online at once, on Erlang.
 - Co-founder of [Potaka();](https://potaka.io), a beginner programming language with Bengali syntax.
 - People's Choice winner at [NASA Space Apps Challenge 2016](https://2016.spaceappschallenge.org/challenges/earth/earth-live/projects/agro-skylab-durbar) for Agro Skylab Durbar.
 - BSc in Software Engineering. Started an MSc in Computer Science; on hold.
