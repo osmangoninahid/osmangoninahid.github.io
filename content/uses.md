@@ -24,7 +24,7 @@ What I work with day to day. Updated September 2026.
 - **Python**: uv, pytest, ruff, black, mypy. Flask and FastAPI services, Celery on RabbitMQ.
 - **Go**: controllers, operators, exporters (client-go informers).
 - **Rust**: cargo, for CLI tools and anything that must be fast and small.
-- **Bash** and **Jinja**: glue, installers, templated manifests and configs.
+- **Bash** and **Jinja**: glue scripts, templated manifests and configs.
 - **Node.js / TypeScript** when the job calls for it; Erlang/OTP in a former life (XMPP).
 
 ## Observability
