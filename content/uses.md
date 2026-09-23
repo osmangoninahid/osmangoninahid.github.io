@@ -7,26 +7,25 @@ What I work with day to day. Updated September 2026.
 
 ## Terminal
 
-- **tmux** (prefix `C-Space`, resurrect + continuum, fzf popups). One session per ticket rooted at the workspace, windows for edit / run / AI, plus one window per cluster whose name selects the kubeconfig.
-- **zsh** with starship, fzf + fd + bat, direnv, mise.
-- **Neovim** with LazyVim as the daily editor; lazygit for git; k9s for clusters.
-- A few aliases that earn their keep: `gst`, `gdf`, `gru` (`git remote update --prune`), `kctx`, `kns`, `ktop`, `twin` (`tmux neww -n`).
+- **tmux** (prefix `C-Space`, resurrect + continuum, fzf popups). One session per ticket, windows for edit / run / AI, one window per cluster whose name picks the kubeconfig.
+- **zsh** with starship, fzf + fd + bat + ripgrep, direnv, mise, zoxide.
+- **Neovim** (LazyVim) as the editor. **lazygit** for git, **k9s** for clusters.
+- Everyday CLI: `jq`, `yq`, `curl`, `mc` (MinIO client), `skopeo`, `sops` + `age`, `keyring` for secrets in scripts, `gh` and `glab`, `caffeinate`.
+- Aliases that earn their keep: `gst`, `gdf`, `gru`, `ggpush`, `ggpull`, `kctx`, `kns`, `ktop`, `twin` (`tmux neww -n`).
 
 ## Kubernetes and infra
 
-- kubectl, helm, k9s, Argo CD, GitLab CI.
-- Local clusters: kind and k3d (OrbStack VM), kwok for scheduler experiments, a fake GPU operator for GPU scheduling without GPUs, skaffold for build-and-load loops.
-- Terraform and Ansible for the bits outside the cluster.
+- kubectl, kubectx/kubens, helm, k9s, Argo CD, GitLab CI.
+- Local clusters: kind and k3d (OrbStack), kwok for scheduler experiments, a fake GPU operator for GPU scheduling without GPUs, skaffold for build-and-load loops.
+- Terraform and Ansible for what lives outside the cluster.
 
 ## Languages and tooling
 
 - **Python**: uv, pytest, ruff, black, mypy. Flask and FastAPI services, Celery on RabbitMQ.
 - **Go**: controllers, operators, exporters (client-go informers).
+- **Rust**: cargo, for CLI tools and anything that must be fast and small.
+- **Bash** and **Jinja**: glue, installers, templated manifests and configs.
 - **Node.js / TypeScript** when the job calls for it; Erlang/OTP in a former life (XMPP).
-
-## Data and messaging
-
-- MongoDB, PostgreSQL, Redis, RabbitMQ, NATS, MinIO and other S3-compatible object stores.
 
 ## Observability
 
@@ -41,6 +40,8 @@ What I work with day to day. Updated September 2026.
 ## Hardware
 
 - MacBook Pro 14" M2 Pro, macOS.
+- MacBook Pro 16" M3 Pro, macOS.
+- NVIDIA DGX Spark.
 
 ## Languages
 
