@@ -43,12 +43,7 @@ Things I built or helped build, newest first. Full-time, freelance and side proj
 
 - [Engine Fabric](https://openinnovation.ai/) (formerly OICM) — *Open Innovation AI, Abu Dhabi*
     - The platform that runs AI workloads on GPU clusters. I lead initiatives of platform engineering and MLOps backend: GPU scheduling, storage and quotas, multi-cluster operations.
-    - Mine, among others:
-        - GPU MIG management end to end: profile catalog for new cards, cordon and drain with impact analysis, reconciling profiles into the GPU operator, a fake MIG manager for local end-to-end tests.
-        - Queue-aware inference autoscaling: KEDA on vLLM queue metrics, per-deployment metrics for vLLM, TGI and SGLang.
-        - Tenant-aware storage: volumes on NFS and seven S3-compatible vendors behind one abstraction, quota system with optimistic locking, and a compatibility suite that qualifies a new object store before rollout.
-        - GPU observability: multi-cluster Prometheus and Thanos, DCGM and AMD exporters, and the PromQL and metric-cardinality fixes that keep the joins honest.
-        - Platform plumbing: a Flyway-style MongoDB migration system, a message dedup queue on RabbitMQ and Celery, a one-command release-cut CLI, a guided installer TUI.
+    - My areas: GPU scheduling and MIG management; model serving and inference autoscaling; multi-tenant storage and quotas across NFS and S3-compatible vendors; GPU observability across clusters; the platform plumbing underneath (migrations, queues, release tooling); and the refactoring and fixes that keep an older codebase moving. Details in the posts.
     - Tech Stack: `Kubernetes`, `Helm`, `Terraform`, `Python`, `Go`, `Prometheus`, `Loki`, `Grafana`, `Flask`, `FastAPI`, `MongoDB`, `PostgreSQL`, `Ray`, `Volcano`, `NVIDIA DCGM`, `GitLab CI`, `vLLM`, `TGI`, `SGLang`.
 
 - [GitGossip](https://github.com/osmangoninahid/gitgossip)
