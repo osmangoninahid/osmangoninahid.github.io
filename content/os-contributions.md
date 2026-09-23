@@ -20,6 +20,14 @@ A false positive: a SafeTensors header byte (`0x82`) was read as a pickle `EXT1`
 
 Fork with fixes for container-registry image verification: **OCI manifest support**, a Harbor auth fix, and ECR basic-auth handling (2026).
 
+## [tmux-claude-hatch](https://github.com/osmangoninahid/tmux-claude-session-manager)
+
+A tmux plugin that runs a Claude Code session in a popup per project directory. Open the hatch, hand Claude the work, close it and go back to your editor; each session lives in its own nested tmux session, an `fzf` picker jumps between them, and a bell tells you which window needs you. A few shell scripts.
+
+## [mkui](https://github.com/osmangoninahid/mkui)
+
+Browse and run Makefile targets from a menu: lists every target, filter by typing, pick one and run it. One static binary, `brew install osmangoninahid/tap/mkui`.
+
 ## [tmux-claude-attn](https://github.com/osmangoninahid/tmux-claude-attn)
 
 A tmux plugin that marks windows where Claude Code is waiting for you. Hooks, no polling. TPM install, CI on Ubuntu and macOS. MIT.

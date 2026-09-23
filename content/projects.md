@@ -19,6 +19,14 @@ Things I built or helped build, newest first. Full-time, freelance and side proj
     - New: it can use Claude Code or Codex directly, no API key; a `commit` command; custom prompts.
     - Tech Stack: `Python`, `Typer`, `Rich`, `GitPython`, `Pydantic v2`, `pytest`, `Ruff`, `Mypy`
 
+- [tmux-claude-hatch](https://github.com/osmangoninahid/tmux-claude-session-manager)
+    - A tmux plugin that runs one Claude Code session per project in a popup, keeps it alive in a nested session, and gives you an `fzf` picker plus a bell for the window that needs you.
+    - Tech Stack: `Shell`, `tmux`, `fzf`
+
+- [mkui](https://github.com/osmangoninahid/mkui)
+    - A menu for Makefile targets: list, filter, run. Single static binary via Homebrew.
+    - Tech Stack: `Rust`
+
 - [tmux-claude-attn](https://github.com/osmangoninahid/tmux-claude-attn)
     - A tmux plugin that marks windows where Claude Code is waiting for you. Hook-driven, no polling. TPM install, tested in CI on Ubuntu and macOS.
     - Tech Stack: `Shell`, `tmux`, `GitHub Actions`
