@@ -46,6 +46,8 @@ KV\ per\ token = 2 \times layers \times kv\_heads \times head\_dim \times bytes
 
 Llama-3-70B, BF16: 2 × 80 × 8 × 128 × 2 = **320 KB per token**. 16 users at 8k context = 42 GB. On top of 140 GB of weights. So a 70B model with real traffic needs about 185 GB, not 140.
 
+{{< figure src="/images/gpu-numbers-does-it-fit.gif" alt="Animation: a 70B model in BF16 overflows an 80 GB H100; in FP8 the weights are 70 GB; KV cache for 16 users at 8k context adds 42 GB; 3 GB overhead brings it to 115 GB, which fits one H200 or two H100s." caption="The same model, step by step: BF16 overflows one H100. FP8 fits. Then the users arrive." >}}
+
 Two things change that number a lot. GQA (8 KV heads instead of 64) is why modern models serve well. MLA (DeepSeek style) caches a small latent instead of full K and V, ten times smaller again. Read the architecture, not the parameter count.
 
 **How to check**: vLLM prints, at startup, how much memory went to weights and how many KV blocks are left. Zero blocks means the model loaded and can serve nobody.
