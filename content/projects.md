@@ -6,6 +6,10 @@ Things I built or helped build, newest first. Full-time, freelance and side proj
 
 ### 2026
 
+- **Campfire** (coming soon)
+    - A local-first cockpit for everyday AI work: browse, search, thread and continue every AI session from one place. Desktop app and terminal UI over one shared engine. Nothing leaves your machine. Drives Claude Code today; more agents next.
+    - Tech Stack: `Rust`, `ratatui`, `wry` (native WebView), `SQLite`, `MCP`
+
 - AI Model Supply-Chain Scanning
     - A service that scans model files and datasets for malicious content before they reach the cluster. Runs `modelaudit`, `picklescan` and `ClamAV` in a short-lived pod on a `wolfi-base` image, keeps scan history and per-file findings.
     - Tech Stack: `Python`, `Kubernetes`, `modelaudit`, `picklescan`, `ClamAV`, `Flask`, `MongoDB`, `GitLab CI`

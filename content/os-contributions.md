@@ -4,6 +4,10 @@ url: /os-contributions/
 ---
 Things I have contributed to or published.
 
+## Campfire (coming soon)
+
+A local-first cockpit for everyday AI work: browse, search, thread and continue every AI session from one place. Desktop and terminal faces over one engine, written in Rust. Nothing leaves your machine. Public release once the logo is done and a few bugs are fixed.
+
 ## [configurable-http-proxy (JupyterHub)](https://github.com/jupyterhub/configurable-http-proxy)
 
 A Redis-backed route store so routes survive proxy restarts: implementation, tests, docs and CLI flags. [Commit d739434](https://github.com/osmangoninahid/configurable-http-proxy/commit/d739434).
