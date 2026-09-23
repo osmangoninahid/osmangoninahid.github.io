@@ -20,7 +20,7 @@ Things I built or helped build, newest first. Full-time, freelance and side proj
     - Tech Stack: `Python`, `Typer`, `Rich`, `GitPython`, `Pydantic v2`, `pytest`, `Ruff`, `Mypy`
 
 - [tmux-claude-hatch](https://github.com/osmangoninahid/tmux-claude-session-manager)
-    - A tmux plugin that runs one Claude Code session per project in a popup, keeps it alive in a nested session, and gives you an `fzf` picker plus a bell for the window that needs you.
+    - Fork of [craftzdog/tmux-claude-hatch](https://github.com/craftzdog/tmux-claude-hatch) (Claude Code in a tmux popup per project, fzf picker, attention bell). Mine: fresh session on every `prefix+y` with re-attach as an option, and sessions named from the first prompt with a title column in the picker.
     - Tech Stack: `Shell`, `tmux`, `fzf`
 
 - [mkui](https://github.com/osmangoninahid/mkui)

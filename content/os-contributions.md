@@ -22,7 +22,7 @@ Fork with fixes for container-registry image verification: **OCI manifest suppor
 
 ## [tmux-claude-hatch](https://github.com/osmangoninahid/tmux-claude-session-manager)
 
-A tmux plugin that runs a Claude Code session in a popup per project directory. Open the hatch, hand Claude the work, close it and go back to your editor; each session lives in its own nested tmux session, an `fzf` picker jumps between them, and a bell tells you which window needs you. A few shell scripts.
+A fork of [tmux-claude-hatch](https://github.com/craftzdog/tmux-claude-hatch) by Takuya Matsuyama: a tmux plugin that runs Claude Code in a popup per project, with an `fzf` picker and a bell for the window that needs you. My additions: `prefix+y` always opens a fresh session instead of re-attaching to the directory's session (the old behaviour stays behind `@claude_reattach`), and sessions are named from the first prompt, with a title column in the picker, so you can tell ten sessions apart.
 
 ## [mkui](https://github.com/osmangoninahid/mkui)
 
