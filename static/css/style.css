@@ -16,4 +16,4 @@ img,iframe,video,svg{max-width:100%;height:auto}figure{margin:1.5em 0}figcaption
 table{border-collapse:collapse;margin:1.2em auto;font-size:.92rem}th,td{padding:.4em .7em;border-bottom:1px solid var(--line);text-align:left}thead th{border-bottom:2px solid var(--line)}
 footer{margin-top:3em;font-size:.85rem;color:var(--muted);text-align:center}
 .mermaid{text-align:center;margin:1.5em 0;background:none;border:0}
-details{margin:1.2em 0;border:1px dashed var(--line);border-radius:6px;padding:.4em .9em}details summary{cursor:pointer;font-weight:600;color:var(--accent)}details[open] summary{margin-bottom:.5em}
+details{margin:1.2em 0;border:1px dashed var(--line);border-radius:6px;padding:.4em .9em}details summary{cursor:pointer;font-weight:700;color:var(--accent)}details[open] summary{margin-bottom:.5em}
