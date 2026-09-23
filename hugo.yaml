@@ -1,5 +1,5 @@
 baseURL: https://osmangoninahid.github.io/
-languageCode: en-us
+locale: en-US
 title: Osman Goni Nahid
 theme: xmin
 enableRobotsTXT: true
