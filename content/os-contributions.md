@@ -6,11 +6,11 @@ Things I have contributed to or published.
 
 ## [configurable-http-proxy (JupyterHub)](https://github.com/jupyterhub/configurable-http-proxy)
 
-A Redis-backed route store so routes survive proxy restarts: implementation, tests, docs and CLI flags. Upstream did not take it, so we run the fork: [commit d739434](https://github.com/osmangoninahid/configurable-http-proxy/commit/d739434).
+A Redis-backed route store so routes survive proxy restarts: implementation, tests, docs and CLI flags. [Commit d739434](https://github.com/osmangoninahid/configurable-http-proxy/commit/d739434).
 
 ## [modelaudit (promptfoo)](https://github.com/promptfoo/modelaudit)
 
-A false positive: a SafeTensors header byte (`0x82`) was read as a pickle `EXT1` opcode. Upstream closed it (they treat the byte as a real risk), so the fix lives in the fork we run: [commit 6d70f50](https://github.com/osmangoninahid/modelaudit/commit/6d70f500).
+A false positive: a SafeTensors header byte (`0x82`) was read as a pickle `EXT1` opcode. [Commit 6d70f50](https://github.com/osmangoninahid/modelaudit/commit/6d70f500).
 
 ## [registry-image-check](https://github.com/osmangoninahid/registry-image-check)
 
