@@ -2,8 +2,8 @@
 title: "Ghost folders, a delete race, and a pool deadlock"
 date: 2026-09-19
 slug: kb-file-delete-race-and-pool-deadlock
+images: [images/og/kb-file-delete-race-and-pool-deadlock.png]
 tags: [concurrency, postgres, nodejs, filesystem, multi-tenant]
-draft: true
 description: "Ghost directories, a delete-versus-extraction race, and a connection-pool deadlock in a multi-tenant file store: three concurrency lessons from one teammate's fix."
 ---
 

@@ -2,6 +2,7 @@
 title: "Four numbers that decide if your model will serve"
 date: 2026-09-23
 slug: gpu-numbers-for-llm-inference
+images: [images/og/gpu-numbers-for-llm-inference.png]
 tags: [gpu, inference, llm, kubernetes, capacity-planning]
 description: "Memory, bandwidth, precision, scaling. What each one means, how to compute it, and how to check it on a real GPU."
 ---

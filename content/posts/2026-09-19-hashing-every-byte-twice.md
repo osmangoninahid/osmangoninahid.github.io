@@ -2,6 +2,7 @@
 title: "We were hashing every byte twice: making 500 GiB volume imports fast"
 date: 2026-09-19
 slug: hashing-every-byte-twice
+images: [images/og/hashing-every-byte-twice.png]
 tags: [storage, kubernetes, python, performance, postmortem]
 description: "A sync pod that downloads a model into a volume was spending hours in the step after the download. Four root causes, one small fix, and how to prove it without a 500 GiB test."
 ---
