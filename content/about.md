@@ -17,7 +17,7 @@ I write here about problems I hit at work, how we solved them, and what I would 
 - BSc in Software Engineering. Started an MSc in Computer Science; on hold.
 - I have taught OOP, system design and data structures to working engineers, and I still join programming contests when I can.
 - Born and raised in Bangladesh. Living in the UAE on a Golden Visa.
-- I like to travel: UAE, Turkey, Georgia and India so far.
+- I like to travel. Mostly between UTC+1 and UTC+6 so far; the map is filling in.
 
 ## What people say
 
