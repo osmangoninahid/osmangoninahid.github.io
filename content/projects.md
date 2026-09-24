@@ -41,7 +41,7 @@ Things I built or helped build, newest first. Full-time, freelance and side proj
 
 ### 2025
 
-- [Engine Fabric](https://openinnovation.ai/) (formerly OICM) — *Open Innovation AI, Abu Dhabi*
+- [Engine Fabric](https://openinnovation.ai/enginefabric/) (formerly OICM) — *Open Innovation AI, Abu Dhabi*
     - The platform that runs AI workloads on GPU clusters. I lead initiatives of platform engineering and MLOps backend: GPU scheduling, storage and quotas, multi-cluster operations.
     - My areas: GPU scheduling and MIG; model serving and inference autoscaling; multi-tenant storage and quotas across NFS and S3-compatible vendors; GPU observability across clusters; GitOps, CI/CD pipelines, release automation and developer tooling.
     - Tech Stack: `Kubernetes`, `Helm`, `Terraform`, `Python`, `Go`, `Prometheus`, `Loki`, `Grafana`, `Flask`, `FastAPI`, `MongoDB`, `PostgreSQL`, `Ray`, `Volcano`, `NVIDIA DCGM`, `GitLab CI`, `vLLM`, `TGI`, `SGLang`.
