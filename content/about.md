@@ -20,10 +20,8 @@ I write here about problems I hit at work, how we solved them, and what I would 
 - Born and raised in Bangladesh. Living in the UAE on a Golden Visa.
 - I like to travel. Mostly between UTC+1 and UTC+6 so far; the map is filling in.
 
-## What people say
-
 <details>
-<summary markdown='span'>Expand</summary>
+<summary markdown='span'>What people say?</summary>
 
 
 
