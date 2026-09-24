@@ -16,8 +16,8 @@ menu:
 
 params:
   author: Osman Goni Nahid
-  images: [images/os.jpeg]
-  description: Backend & platform engineer. MLOps, GPU orchestration, distributed storage, Kubernetes. Python, Go, Node.
+  images: [images/og/site.png]
+  description: Tech lead, platform engineering and MLOps. GPU scheduling, LLM inference, distributed storage, Kubernetes. Python, Go, Rust. Notes from real problems on a GPU platform.
   footer: "&copy; Osman Goni Nahid {Year} &middot; [github](https://github.com/osmangoninahid) &middot; [linkedin](https://www.linkedin.com/in/osmangoninahid) &middot; [x](https://x.com/osmangoninahid) &middot; [rss](/index.xml)"
 
 markup:
