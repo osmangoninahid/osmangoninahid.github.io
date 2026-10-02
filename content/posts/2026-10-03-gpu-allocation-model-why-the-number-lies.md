@@ -5,7 +5,6 @@ slug: gpu-allocation-model-why-the-number-lies
 tags: ["gpu", "kubernetes", "scheduling", "platform-engineering", "multi-tenancy", "mig"]
 description: "A fixed GPU fleet, many teams, one dashboard number. On a shared cluster 'available GPUs' is assembled from four sources, and every capacity ticket I handled this year was two of them disagreeing. The model, the six lies, and the reconciler that fixed them."
 images: ["images/og/gpu-allocation-lies.png"]
-draft: true
 ---
 
 A fixed fleet, many teams, one dashboard number: *available GPUs*. On a shared cluster that number is not read — it is assembled from four sources. Every capacity ticket I handled this year was two of them disagreeing.
